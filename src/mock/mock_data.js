@@ -45,7 +45,8 @@ export const mockData = {
           "id": "site-1787306365055",
           "name": "八零API",
           "url": "https://api.800108.xyz",
-          "description": "个人AI中转聚合站点"
+          "description": "个人AI中转聚合站点",
+          "icon": "/sitelogo/api.800108.xyz.ico"
         },
         {
           "id": "site-1787306447978",
@@ -58,19 +59,22 @@ export const mockData = {
           "id": "site-1787306492410",
           "name": "IT工具箱",
           "url": "https://it.800108.xyz",
-          "description": "IT工具合集"
+          "description": "IT工具合集",
+          "icon": "/sitelogo/it.800108.xyz.ico"
         },
         {
           "id": "site-1787306586814",
           "name": "智能AI80",
           "url": "https://chat.800108.xyz",
-          "description": "AI在线chat web工具"
+          "description": "AI在线chat web工具",
+          "icon": "/sitelogo/chat.800108.xyz.ico"
         },
         {
           "id": "site-1787306668884",
           "name": "OpenWebUI-Lite",
           "url": "https://ai.800108.xyz",
-          "description": "open webui精简站点"
+          "description": "open webui精简站点",
+          "icon": "/sitelogo/ai.800108.xyz.ico"
         }
       ]
     },
