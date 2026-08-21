@@ -562,6 +562,41 @@ export const mockData = {
           "url": "https://keep.666126.xyz",
           "description": "Memos搭建在线笔记工具",
           "icon": "/sitelogo/keep.666126.xyz.ico"
+        },
+        {
+          "id": "site-1787310860185",
+          "name": "OpenList",
+          "url": "https://pan.666126.xyz",
+          "description": "开源网盘聚合工具",
+          "icon": "/sitelogo/pan.666126.xyz.ico"
+        },
+        {
+          "id": "site-1787310924074",
+          "name": "聚合搜索",
+          "url": "https://so.800108.xyz",
+          "description": "多引擎搜索聚合工具",
+          "icon": "/sitelogo/so.800108.xyz.ico"
+        },
+        {
+          "id": "site-1787310996022",
+          "name": "Github代理",
+          "url": "https://sp.666126.xyz",
+          "description": "github代理下载和docker hub代理工具",
+          "icon": "/sitelogo/sp.666126.xyz.ico"
+        },
+        {
+          "id": "site-1787311042318",
+          "name": "视界搜索",
+          "url": "https://ss.800108.xyz",
+          "description": "网盘聚合搜索工具",
+          "icon": "/sitelogo/ss.800108.xyz.ico"
+        },
+        {
+          "id": "site-1787311117264",
+          "name": "SUB订阅管理",
+          "url": "https://sub.800108.xyz",
+          "description": "节点订阅管理工具",
+          "icon": "/sitelogo/sub.800108.xyz.ico"
         }
       ]
     }
