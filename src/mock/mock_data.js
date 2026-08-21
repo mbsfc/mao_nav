@@ -554,7 +554,7 @@ export const mockData = {
           "name": "笔记本",
           "url": "https://note.666126.xyz",
           "description": "在线笔记工具memos",
-          "icon": "/sitelogo/note.666126.xyz.ico"
+          "icon": "/sitelogo/note.666126.ico"
         },
         {
           "id": "site-1787310326477",
