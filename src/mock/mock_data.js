@@ -40,6 +40,37 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1787306365055",
+          "name": "八零API",
+          "url": "https://api.800108.xyz",
+          "description": "个人AI中转聚合站点"
+        },
+        {
+          "id": "site-1787306447978",
+          "name": "PDF工具箱",
+          "url": "https://tools.666126.xyz",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1787306492410",
+          "name": "IT工具箱",
+          "url": "https://it.800108.xyz",
+          "description": "IT工具合集"
+        },
+        {
+          "id": "site-1787306586814",
+          "name": "智能AI80",
+          "url": "https://chat.800108.xyz",
+          "description": "AI在线chat web工具"
+        },
+        {
+          "id": "site-1787306668884",
+          "name": "OpenWebUI-Lite",
+          "url": "https://ai.800108.xyz",
+          "description": "open webui精简站点"
         }
       ]
     },
@@ -481,7 +512,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "八零导航",
-  "search": "bing",
-  "_fileSha": "ee4065bcc452645f0be8fe9653ec2c6c6843fe8f"
+  "title": "八零导航"
 }
