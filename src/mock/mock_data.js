@@ -40,41 +40,6 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
-        },
-        {
-          "id": "site-1787306365055",
-          "name": "八零API",
-          "url": "https://api.800108.xyz",
-          "description": "个人AI中转聚合站点",
-          "icon": "/sitelogo/api.800108.xyz.ico"
-        },
-        {
-          "id": "site-1787306447978",
-          "name": "PDF工具箱",
-          "url": "https://tools.666126.xyz",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1787306492410",
-          "name": "IT工具箱",
-          "url": "https://it.800108.xyz",
-          "description": "IT工具合集",
-          "icon": "/sitelogo/it.800108.xyz.ico"
-        },
-        {
-          "id": "site-1787306586814",
-          "name": "智能AI80",
-          "url": "https://chat.800108.xyz",
-          "description": "AI在线chat web工具",
-          "icon": "/sitelogo/chat.800108.xyz.ico"
-        },
-        {
-          "id": "site-1787306668884",
-          "name": "OpenWebUI-Lite",
-          "url": "https://ai.800108.xyz",
-          "description": "open webui精简站点",
-          "icon": "/sitelogo/ai.800108.xyz.ico"
         }
       ]
     },
@@ -118,6 +83,27 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1787306365055",
+          "name": "八零API",
+          "url": "https://api.800108.xyz",
+          "description": "个人AI中转聚合站点",
+          "icon": "/sitelogo/api.800108.xyz.ico"
+        },
+        {
+          "id": "site-1787306668884",
+          "name": "OpenWebUI-Lite",
+          "url": "https://ai.800108.xyz",
+          "description": "open webui精简站点",
+          "icon": "/sitelogo/ai.800108.xyz.ico"
+        },
+        {
+          "id": "site-1787306586814",
+          "name": "智能AI80",
+          "url": "https://chat.800108.xyz",
+          "description": "AI在线chat web工具",
+          "icon": "/sitelogo/chat.800108.xyz.ico"
         }
       ]
     },
@@ -225,6 +211,13 @@ export const mockData = {
           "url": "https://www.oracle.com/java/technologies/downloads/",
           "description": "Oracle官方Java下载",
           "icon": "/sitelogo/www.oracle.com.ico"
+        },
+        {
+          "id": "site-1787306492410",
+          "name": "IT工具箱",
+          "url": "https://it.800108.xyz",
+          "description": "IT工具合集",
+          "icon": "/sitelogo/it.800108.xyz.ico"
         }
       ]
     },
@@ -440,6 +433,13 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
+        },
+        {
+          "id": "site-1787306447978",
+          "name": "PDF工具箱",
+          "url": "https://tools.666126.xyz",
+          "description": "",
+          "icon": "/sitelogo/tools.666126.xyz.ico"
         }
       ]
     },
@@ -476,6 +476,13 @@ export const mockData = {
           "url": "https://www.zhihu.com",
           "description": "知识问答社区",
           "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='black'%3E%3Cpath d='M8 0C3.58 0 0 3.58 0 8a8 8 0 005.47 7.59c.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.01.08-2.11 0 0 .67-.21 2.2.82A7.65 7.65 0 018 4.58c.68.003 1.36.092 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.91.08 2.11.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z'/%3E%3C/svg%3E"
+        },
+        {
+          "id": "site-1787309698693",
+          "name": "视界TV",
+          "url": "https://tv.800108.xyz",
+          "description": "全网视频资源聚合平台",
+          "icon": "/sitelogo/tv.800108.xyz.ico"
         }
       ]
     },
@@ -512,6 +519,49 @@ export const mockData = {
           "url": "https://www.feishu.cn",
           "description": "企业协作平台",
           "icon": "/sitelogo/www.feishu.cn.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1787309835227",
+      "icon": "🌐",
+      "name": "自建服务",
+      "order": 3,
+      "sites": [
+        {
+          "id": "site-1787309918255",
+          "name": "密码管理",
+          "url": "https://passwd.666126.xyz",
+          "description": "个人密码管理器",
+          "icon": "/sitelogo/passwd.666126.xyz.ico"
+        },
+        {
+          "id": "site-1787309984407",
+          "name": "密码管理2",
+          "url": "https://vault.666126.xyz",
+          "description": "个人密码管理器同步镜像",
+          "icon": "/sitelogo/vault.666126.xyz.ico"
+        },
+        {
+          "id": "site-1787310042652",
+          "name": "密码管理器3",
+          "url": "https://passwd.800108.xyz",
+          "description": "个人密码管理器cloudflare版",
+          "icon": "/sitelogo/passwd.800108.xyz.ico"
+        },
+        {
+          "id": "site-1787310274884",
+          "name": "笔记本",
+          "url": "https://note.666126.xyz",
+          "description": "在线笔记工具memos",
+          "icon": "/sitelogo/note.666126.xyz.ico"
+        },
+        {
+          "id": "site-1787310326477",
+          "name": "Memos",
+          "url": "https://keep.666126.xyz",
+          "description": "Memos搭建在线笔记工具",
+          "icon": "/sitelogo/keep.666126.xyz.ico"
         }
       ]
     }
