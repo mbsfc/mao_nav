@@ -111,7 +111,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "cloudflare",
@@ -526,7 +526,7 @@ export const mockData = {
       "id": "category-1787309835227",
       "icon": "🌐",
       "name": "自建服务",
-      "order": 3,
+      "order": 2,
       "sites": [
         {
           "id": "site-1787309918255",
