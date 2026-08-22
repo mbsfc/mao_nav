@@ -44,10 +44,88 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1787309835227",
+      "icon": "🌐",
+      "name": "自建服务",
+      "order": 1,
+      "sites": [
+        {
+          "id": "site-1787309918255",
+          "name": "密码管理",
+          "url": "https://passwd.666126.xyz",
+          "description": "个人密码管理器",
+          "icon": "/sitelogo/passwd.666126.xyz.ico"
+        },
+        {
+          "id": "site-1787309984407",
+          "name": "密码管理2",
+          "url": "https://vault.666126.xyz",
+          "description": "个人密码管理器同步镜像",
+          "icon": "/sitelogo/vault.666126.xyz.ico"
+        },
+        {
+          "id": "site-1787310042652",
+          "name": "密码管理器3",
+          "url": "https://passwd.800108.xyz",
+          "description": "个人密码管理器cloudflare版",
+          "icon": "/sitelogo/passwd.800108.xyz.ico"
+        },
+        {
+          "id": "site-1787310274884",
+          "name": "笔记本",
+          "url": "https://note.666126.xyz",
+          "description": "在线笔记工具memos",
+          "icon": "/sitelogo/note.666126.ico"
+        },
+        {
+          "id": "site-1787310326477",
+          "name": "Memos",
+          "url": "https://keep.666126.xyz",
+          "description": "Memos搭建在线笔记工具",
+          "icon": "/sitelogo/keep.666126.xyz.ico"
+        },
+        {
+          "id": "site-1787310860185",
+          "name": "OpenList",
+          "url": "https://pan.666126.xyz",
+          "description": "开源网盘聚合工具",
+          "icon": "/sitelogo/pan.666126.xyz.ico"
+        },
+        {
+          "id": "site-1787310924074",
+          "name": "聚合搜索",
+          "url": "https://so.800108.xyz",
+          "description": "多引擎搜索聚合工具",
+          "icon": "/sitelogo/so.800108.xyz.ico"
+        },
+        {
+          "id": "site-1787310996022",
+          "name": "Github代理",
+          "url": "https://sp.666126.xyz",
+          "description": "github代理下载和docker hub代理工具",
+          "icon": "/sitelogo/sp.666126.xyz.ico"
+        },
+        {
+          "id": "site-1787311042318",
+          "name": "视界搜索",
+          "url": "https://ss.800108.xyz",
+          "description": "网盘聚合搜索工具",
+          "icon": "/sitelogo/ss.800108.xyz.ico"
+        },
+        {
+          "id": "site-1787311117264",
+          "name": "SUB订阅管理",
+          "url": "https://sub.800108.xyz",
+          "description": "节点订阅管理工具",
+          "icon": "/sitelogo/sub.800108.xyz.ico"
+        }
+      ]
+    },
+    {
       "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
-      "order": 1,
+      "order": 2,
       "sites": [
         {
           "id": "chatgpt",
@@ -168,7 +246,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 10,
+      "order": 4,
       "sites": [
         {
           "id": "github",
@@ -225,7 +303,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 6,
+      "order": 5,
       "sites": [
         {
           "id": "stackoverflow",
@@ -268,7 +346,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 4,
+      "order": 6,
       "sites": [
         {
           "id": "figma",
@@ -304,7 +382,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 5,
+      "order": 7,
       "sites": [
         {
           "id": "binance",
@@ -368,7 +446,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 6,
+      "order": 8,
       "sites": [
         {
           "id": "mdn",
@@ -404,7 +482,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 7,
+      "order": 9,
       "sites": [
         {
           "id": "json-formatter",
@@ -447,7 +525,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 8,
+      "order": 10,
       "sites": [
         {
           "id": "bilibili",
@@ -490,7 +568,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 9,
+      "order": 11,
       "sites": [
         {
           "id": "notion",
@@ -519,84 +597,6 @@ export const mockData = {
           "url": "https://www.feishu.cn",
           "description": "企业协作平台",
           "icon": "/sitelogo/www.feishu.cn.ico"
-        }
-      ]
-    },
-    {
-      "id": "category-1787309835227",
-      "icon": "🌐",
-      "name": "自建服务",
-      "order": 2,
-      "sites": [
-        {
-          "id": "site-1787309918255",
-          "name": "密码管理",
-          "url": "https://passwd.666126.xyz",
-          "description": "个人密码管理器",
-          "icon": "/sitelogo/passwd.666126.xyz.ico"
-        },
-        {
-          "id": "site-1787309984407",
-          "name": "密码管理2",
-          "url": "https://vault.666126.xyz",
-          "description": "个人密码管理器同步镜像",
-          "icon": "/sitelogo/vault.666126.xyz.ico"
-        },
-        {
-          "id": "site-1787310042652",
-          "name": "密码管理器3",
-          "url": "https://passwd.800108.xyz",
-          "description": "个人密码管理器cloudflare版",
-          "icon": "/sitelogo/passwd.800108.xyz.ico"
-        },
-        {
-          "id": "site-1787310274884",
-          "name": "笔记本",
-          "url": "https://note.666126.xyz",
-          "description": "在线笔记工具memos",
-          "icon": "/sitelogo/note.666126.ico"
-        },
-        {
-          "id": "site-1787310326477",
-          "name": "Memos",
-          "url": "https://keep.666126.xyz",
-          "description": "Memos搭建在线笔记工具",
-          "icon": "/sitelogo/keep.666126.xyz.ico"
-        },
-        {
-          "id": "site-1787310860185",
-          "name": "OpenList",
-          "url": "https://pan.666126.xyz",
-          "description": "开源网盘聚合工具",
-          "icon": "/sitelogo/pan.666126.xyz.ico"
-        },
-        {
-          "id": "site-1787310924074",
-          "name": "聚合搜索",
-          "url": "https://so.800108.xyz",
-          "description": "多引擎搜索聚合工具",
-          "icon": "/sitelogo/so.800108.xyz.ico"
-        },
-        {
-          "id": "site-1787310996022",
-          "name": "Github代理",
-          "url": "https://sp.666126.xyz",
-          "description": "github代理下载和docker hub代理工具",
-          "icon": "/sitelogo/sp.666126.xyz.ico"
-        },
-        {
-          "id": "site-1787311042318",
-          "name": "视界搜索",
-          "url": "https://ss.800108.xyz",
-          "description": "网盘聚合搜索工具",
-          "icon": "/sitelogo/ss.800108.xyz.ico"
-        },
-        {
-          "id": "site-1787311117264",
-          "name": "SUB订阅管理",
-          "url": "https://sub.800108.xyz",
-          "description": "节点订阅管理工具",
-          "icon": "/sitelogo/sub.800108.xyz.ico"
         }
       ]
     }
